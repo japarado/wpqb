@@ -1,0 +1,13 @@
+{
+    "name": "pam/wpqb",
+    "description": "Thin wrapper of the Eloquent query builder for the WordPress database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Parado",
+            "email": "justin.parado@dice205.com"
+        }
+    ],
+    "require": {}
+}
